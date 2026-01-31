@@ -1,5 +1,5 @@
 # guohexing572-boop.github.io
 郭和兴  
 hexing guo
-Email: your_email@example.com  
+Email: 25s103357@stu.hit.edu.cn
 Affiliation: Harbin Institute of Technology
